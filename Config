@@ -1,0 +1,10 @@
+./configure --libdir=$HOME/ircd --mandir=$HOME/ircd --bindir=$HOME/ircd --with-maxcon=1000
+make 
+make install
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo ""
+echo "$HOME/ircd created and config copied"
